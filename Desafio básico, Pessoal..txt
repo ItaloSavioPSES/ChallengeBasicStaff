@@ -1,0 +1,20 @@
+Desafio básico, Pessoal.
+
+Sistema de Cadastro, cadastro de cliente, de itens
+
+--- 1 opção vai ter o cadastro de clientes, onde vai ser inserido:
+.1 Primeiro nome
+.2 Segundo nome
+.3 Data de nascimento
+.4 Endereço
+
+--- 2 opção de cadastro de produtos, onde vai ser inserido:
+.1 Descrição do item
+.2 Qual item você vai colocar
+
+
+foi criado um Scanner com a variavel (opcaoDeSelecao) para usar na condição do switch, onde vai existir uma naveção por ints.
+
+implementei uma validação sem nexo mas por conta do treinamento...
+onde o usuário vai desejar prosseguir com o cadastro ou não, usando condicionais 
+
